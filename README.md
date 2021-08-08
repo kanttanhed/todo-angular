@@ -1,3 +1,33 @@
 Projeto para o curso Spring Boot 2.x com Angular 11
 
-https://camo.githubusercontent.com/422698d0fb342b71b2db04030cdbe1f0f7cd390ac503292b22c17339a8479818/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2532302d2532334637444631452e7376673f267374796c653d666f722d7468652d626164676526636f6c6f723d453334463236
+# Welcome!
+
+ 
+
+## I'm Plínio Salazar!
+
+ 
+
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: .
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! \o/
+
+----------------------------------------------------------------------------------
