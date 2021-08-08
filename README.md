@@ -24,8 +24,8 @@ Projeto para o curso Spring Boot 2.x com Angular 11
   https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
   https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
   
-<code><img height= "20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height= "25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring"></code>
+<code><img height= "25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springColor=white"></code>
 
 ## About me
 
